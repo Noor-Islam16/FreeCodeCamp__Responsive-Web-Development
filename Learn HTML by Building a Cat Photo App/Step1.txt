@@ -6,4 +6,4 @@ Find the h1 element and change its text to:
 
 CatPhotoApp
 
-#<h1>CatPhotoApp</h1>
+Code: <h1>CatPhotoApp</h1>
