@@ -2,6 +2,6 @@ You can link to another page with the anchor (a) element. For example, <a href='
 
 Add an anchor element after the paragraph that links to https://freecatphotoapp.com. At this point, the link won’t show up in the preview.
 
-      <a href="https://freecatphotoapp.com"></a>
+Code:       <a href="https://freecatphotoapp.com"></a>
 
       
